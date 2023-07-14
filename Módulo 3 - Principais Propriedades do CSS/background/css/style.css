@@ -1,0 +1,77 @@
+body {
+    background-image: url(../imgs/tartaruga.jpeg) ;
+    background-repeat: no-repeat;
+    background-color: aqua;
+    background-attachment: fixed;
+    margin: 100px 40px 10px 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.box {
+    margin-left:auto ;
+    margin-right: auto;
+    width: 70%;
+    border: 1px solid black;
+    background-color: #F55335;
+}
+h2{
+    font-style: italic;
+    padding: 10px 10px 10px 30px;
+}
+hr {
+    color: rgb(255, 0, 0);
+    
+}
+p {
+    font-size:20px ;
+    color: firebrick;
+    text-align: justify;
+    padding: 10px;
+    text-indent: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p1 {
+    font-size:20px ;
+    color: rgb(9, 5, 236);
+    text-align: justify;
+    padding: 10px;
+    text-indent: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p2 {
+    font-size:20px ;
+    color: rgb(234, 238, 8);
+    text-align: justify;
+    padding: 10px;
+    text-indent: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p3 {
+    font-size:20px ;
+    color: rgb(4, 238, 16);
+    text-align: justify;
+    padding: 10px;
+    text-indent: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p4 {
+    color: #4405FF;
+    font-size: 20px;
+    text-align: center;
+    padding: 0px 35px 0px 35px;
+}
+/*link inato*/
+a:link{
+    color: #06f197 ;
+}
+/*link apos visita*/
+a:visited {
+    color: #D143B2;
+}
+/*link com o mouse em cima*/
+a:hover {
+    color: #FBFF17;
+}
+/*link quando recebe um click*/
+a:active {
+    color: #55ABA9;
+}

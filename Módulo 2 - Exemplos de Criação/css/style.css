@@ -1,0 +1,33 @@
+/*Mudando a cor de fundo da página*/
+body {
+    background-color: tan;
+}
+/*Mudando a cor do titulo*/
+h1 {
+    color: maroon;
+}
+/*Mudando a cor da linha horizontal*/
+hr  {
+    color: navy;
+}
+/*Mudando o tamanho da font e a margem da esquerda*/
+p {
+    font-size: 16px;
+    margin-left: 20px;
+}
+/*Mudando a cor do link inato*/
+a:link {
+    color: green;
+}
+/*Mudando a cor do link apos ser acessado uma vez*/
+a:visited {
+    color: yellow;
+}
+/*Mudando a cor do link quando o mouse é colocado em cima*/
+a:hover{
+    color: black;
+}
+/*Mudando a cor do link quando o mesmo recebe um "click" */
+a:active {
+    color: blue;
+}
